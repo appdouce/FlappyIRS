@@ -2,3 +2,6 @@ The game is me dodging the IRS.  The game will randomly generate gray rectangula
 png sprite of my face with pixel sunglasses will be the "bird".   See codebase for sprites!
 
 The background needs to be Gadsden Flag. just use this one in the codebase.
+
+DEAN'S NOTES:
+Added everything except for score-keeping and pipe collisions. Variables such as gravitational acceleration and sprite height are all changeable.
